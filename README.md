@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unnati06" alt="unnati06" /></a> </p>
 
-- 🔭 I’m currently working on **Building my own extension**
+- 🔭 I’m currently working on **Building solutions that help people**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-unnati06s-projects.vercel.app/](https://portfolio-unnati06s-projects.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@unnatisrivastava0603](https://medium.com/@unnatisrivastava0603)
 
-- 💬 Ask me about **Next.js, GSAP, System Design, Node JS**
+- 💬 Ask me about **AI/ML, LLM, RAG, System Design, Product Analysis, SQL, Python**
 
 - 📫 How to reach me **unnatisrivastava0603@gmail.com**
 
